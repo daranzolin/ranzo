@@ -1,0 +1,17 @@
+Package: ranzo
+Title: Useful Collection Of Functions
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "David",
+           family = "Ranzolin",
+           role = c("aut", "cre"),
+           email = "daranzolin@gmail.com")
+Description: Helps David Ranzolin accomplish various things in R.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    dplyr,
+    purrr,
+    rlang
+RoxygenNote: 7.1.0
